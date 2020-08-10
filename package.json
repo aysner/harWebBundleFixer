@@ -1,0 +1,15 @@
+{
+  "name": "har_web_bundle_fixer",
+  "version": "1.0.0",
+  "description": "A script to fix HAR files for generating Web Bundles with gen-bundle from https://github.com/WICG/webpackage",
+  "bin": "bin/harWebBundleFixer.js",
+  "keywords": [
+    "har",
+    "Web Bundles"
+  ],
+  "author": "Christian Aysner <christian@aysner.at>",
+  "license": "MIT",
+  "dependencies": {
+    "https": "^1.0.0"
+  }
+}
